@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/competitive-catalogue/static/css/main.073c9b0a.css",
+    "main.js": "/competitive-catalogue/static/js/main.6400779b.js",
+    "static/js/787.b70c0948.chunk.js": "/competitive-catalogue/static/js/787.b70c0948.chunk.js",
+    "static/media/logo.svg": "/competitive-catalogue/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/competitive-catalogue/index.html",
+    "main.073c9b0a.css.map": "/competitive-catalogue/static/css/main.073c9b0a.css.map",
+    "main.6400779b.js.map": "/competitive-catalogue/static/js/main.6400779b.js.map",
+    "787.b70c0948.chunk.js.map": "/competitive-catalogue/static/js/787.b70c0948.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6400779b.js"
+  ]
+}
